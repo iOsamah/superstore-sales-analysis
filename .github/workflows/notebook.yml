@@ -16,3 +16,7 @@ jobs:
           python-version: "3.12"
       - run: pip install -r requirements.txt
       - run: jupyter nbconvert --to notebook --execute analysis.ipynb --output /tmp/executed.ipynb
+      - name: Run SQL analysis and verify committed results are current
+        run: |
+          python sql/run_queries.py
+          git diff --exit-code sql/RESULTS.md
