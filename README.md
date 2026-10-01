@@ -14,10 +14,10 @@ Where does the revenue come from, how is it growing, and where are the untapped 
 
 ## 🔍 Key Insights
 - **$2.26M total sales**, led by **Technology ($827K)**.
-- **~50% growth in four years** — from **$480K (2015)** to **$722K (2018)**.
+- **~50% growth in four years** — from **$480K (2015)** to **$722K (2018)**, after a dip in 2016.
 - **Geographic concentration:** California and New York generate **~33%** of all sales.
 - **Consumer segment** drives **51%** of revenue.
-- **South region underperforms** compared with the other regions.
+- **South is the weakest region** at **17.2%** of sales.
 
 ## 💡 Recommendations
 1. **Grow the South region** with targeted marketing and promotions.
